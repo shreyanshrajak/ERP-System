@@ -3,10 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://github.com/shreyanshrajak/ERP-System/blob/main/src/Screenshot%20(1).png">
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://ibb.co/DkgzrVM">
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://ibb.co/ZHsnrvB">
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://ibb.co/Zg880hM">
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://ibb.co/2kVZ1LQ">
+<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://github.com/shreyanshrajak/ERP-System/blob/main/src/Screenshot%20(2).png">
+<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://github.com/shreyanshrajak/ERP-System/blob/main/src/Screenshot%20(3).png">
+<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://github.com/shreyanshrajak/ERP-System/blob/main/src/Screenshot%20(4).png">
+<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://github.com/shreyanshrajak/ERP-System/blob/main/src/Screenshot%20(7).png">
 
 ## Available Scripts
 
