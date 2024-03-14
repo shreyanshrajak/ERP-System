@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://ibb.co/W5wcHF4">
+<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://github.com/shreyanshrajak/ERP-System/blob/main/src/Screenshot%20(1).png">
 <img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://ibb.co/DkgzrVM">
 <img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://ibb.co/ZHsnrvB">
 <img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://ibb.co/Zg880hM">
